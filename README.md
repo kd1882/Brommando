@@ -1,4 +1,3 @@
-```markdown
 # Brommando
 
 Welcome to **Brommando**, a top-down, rogue-like shooter game where efficiency, fun, and the prowess of Python come together to deliver an engaging gaming experience. Developed with Pygame-CE, **Brommando** challenges players to navigate through dynamically generated levels, defeat enemies, and survive as long as possible, all while showcasing the capabilities of Python in game development.
@@ -31,7 +30,6 @@ To play **Brommando**, you'll need to have Python installed on your machine alon
 ```bash
 git clone https://github.com/YourUsername/Brommando.git
 cd Brommando
-```
 
 2. **Install dependencies:**
 
