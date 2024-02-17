@@ -2,6 +2,8 @@
 
 Welcome to **Brommando**, a top-down, rogue-like shooter game where efficiency, fun, and the prowess of Python come together to deliver an engaging gaming experience. Developed with Pygame-CE, **Brommando** challenges players to navigate through dynamically generated levels, defeat enemies, and survive as long as possible, all while showcasing the capabilities of Python in game development.
 
+![Brommando, leader of the bros](assets/images/logos/Screenshot from 2024-02-16 20-21-03.png "Brommando")
+
 ## Table of Contents
 
 - [Features](#features)
