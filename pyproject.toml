@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "brommando"
+version = "0.1.0"
+description = "RogueLike shooter built with Python"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pygame-ce = "^2.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
