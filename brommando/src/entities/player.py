@@ -27,5 +27,9 @@ class Player:
 
     # Placeholder for mouse handling method
     def handle_mouse(self, mouse_position):
-        # Implement mouse movement or aiming here
-        pass
+        # handle input for mouse
+       
+
+    def shoot_projectile(self, position):
+
+        

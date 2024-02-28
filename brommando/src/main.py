@@ -15,16 +15,22 @@ class Game:
 
     def game_loop(self):
         while self.running:
+            self.clock.tick(settings.FPS)
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
                     self.running = False
 
             keys = pygame.key.get_pressed()
+            mouse = pygame.mouse.get_pos()
             self.player.update(keys)
+
+            self.player.handle_mouse(mouse)
+            self.player.shoot_projectile(mouse)
+
             self.screen.fill((0, 0, 0))
             self.player.draw(self.screen)
             pygame.display.flip()
-            self.clock.tick(settings.FPS)
+            print(mouse)
 
 
     def run(self): 
