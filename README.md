@@ -1,8 +1,6 @@
-# Brommando
+# Untitled ARPG
 
-Welcome to **Brommando**, a top-down, rogue-like shooter game where efficiency, fun, and the prowess of Python come together to deliver an engaging gaming experience. Developed with Pygame-CE, **Brommando** challenges players to navigate through dynamically generated levels, defeat enemies, and survive as long as possible, all while showcasing the capabilities of Python in game development.
-
-![Brommando, leader of the bros](https://github.com/kd1882/Brommando/blob/main/brommando/assets/images/logos/4.png?raw=true "Brommando")
+Welcome to **Untitled ARPG**, a top-down, rogue-like ARPG game where efficiency, fun, and the prowess of Python come together to deliver an engaging gaming experience. Developed with Pygame-CE, **Untitled ARPG** challenges players to navigate through dynamically generated levels, defeat enemies, and survive as long as possible, all while showcasing the capabilities of Python in game development.
 
 ## Table of Contents
 
@@ -15,7 +13,7 @@ Welcome to **Brommando**, a top-down, rogue-like shooter game where efficiency, 
 
 ## Features
 
-**Brommando** is packed with exciting features that enhance its gameplay and replayability:
+**Untitled ARPG** is packed with exciting features that enhance its gameplay and replayability:
 
 - **Dynamic Levels:** Each playthrough offers a new layout, keeping the gameplay fresh and challenging.
 - **Variety of Weapons:** Discover and wield different weapons to defeat your enemies.
@@ -31,7 +29,7 @@ To play **Brommando**, you'll need to have Python installed on your machine alon
 
 ```bash
 git clone https://github.com/YourUsername/Brommando.git
-cd Brommando
+cd Untitled-ARPG
 
 2. **Install dependencies:**
 
@@ -43,7 +41,7 @@ python -m pip install -r requirements.txt
 
 ## Running the Game
 
-Once you've installed the necessary dependencies, you can run **Brommando** by executing:
+Once you've installed the necessary dependencies, you can run **Untitled-ARPG** by executing:
 
 ```bash
 python src/main.py
@@ -52,21 +50,21 @@ python src/main.py
 ## How to Play
 
 - **Movement:** Use the arrow keys or WASD to move your character.
-- **Shooting:** Aim with the mouse and click to shoot.
-- **Power-Ups:** Collect power-ups dropped by enemies to gain temporary abilities.
+- **Combat:** Aim with the mouse and slash away.
+- **Looting:** Collect power-ups, gold, and loot dropped by enemies to make your character stronger.
 
-Survive as long as you can, defeat enemies, and aim for a high score!
+Explore, fight, loot, repeat.
 
 ## Contributing
 
-We welcome contributions to **Brommando**! If you have ideas for new features, improvements, or have found a bug you'd like to report, please feel free to open an issue or submit a pull request.
+We welcome contributions to **Untitled-ARPG**! If you have ideas for new features, improvements, or have found a bug you'd like to report, please feel free to open an issue or submit a pull request.
 
 ## License
 
-**Brommando** is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
+**Untitled-ARPG** is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-**Brommando** is a testament to the power and versatility of Python for game development. Join us in making it an even better and more exciting game to play!
+**Untitled-ARPG** is a testament to the power and versatility of Python for game development. Join us in making it an even better and more exciting game to play!
 ```
 
